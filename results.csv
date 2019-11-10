@@ -1,0 +1,20 @@
+,id,cluster_id,problem_description,solution_id,upvotes,downvotes
+1,1,1,traffic glitch,FSB-W4567,0,2
+2,2,1,traffic glitch,FSB-W4569,4,0
+3,3,2,error,FSB-O0000,6,3
+4,4,3,macsec,FSB-W4567,8,2
+5,5,3,macsec,FSB-R2222,5,1
+6,6,4,macsec issue,MOP-S234,3,2
+7,7,5,traffic glitchs,MOP-S333,1,0
+8,8,5,traffic glitchs,MOP-L777,1,6
+9,9,6,traffic glitchss,MOP-M888,4,0
+10,10,6,traffic glitchss,MOP-L777,1,0
+11,11,7,traffic errror,MOP-X1234,3,1
+12,12,7,traffic errror,MOP-X9876,1,5
+13,13,7,traffic errror,MOP-X9877,0,1
+14,14,7,traffic errror,MOP-X9878,0,1
+15,15,7,traffic errror,MOP-X9879,0,1
+16,16,7,traffic errror,MOP-X9880,5,0
+17,17,8,flash problem,FSB-O0000,5,0
+18,18,9,glitch,MOP-S333,2,0
+19,19,9,glitch,MOP-L777,0,7

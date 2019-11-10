@@ -1,0 +1,14 @@
+id,problem_description,tags,product
+1,traffic glitch,Network Down,NULL
+2,error,,NULL
+4,fault,,NULL
+11,masec,,NULL
+12,macsec,MACSEC,NULL
+20,flash error,NULL,CX
+22,macsec issue,NULL,cx
+23,traffic glitchs,NULL,cx
+24,traffic glitchss,NULL,cx
+25,traffic errror,network down,cx
+30,traffic errors,,CX
+31,flash problem,,RA
+32,glitch,,KL
